@@ -1,0 +1,7 @@
+E:\dotNet\dotNetPractical_5\readfile\bin\Debug\readfile.exe.config
+E:\dotNet\dotNetPractical_5\readfile\bin\Debug\readfile.exe
+E:\dotNet\dotNetPractical_5\readfile\bin\Debug\readfile.pdb
+E:\dotNet\dotNetPractical_5\readfile\obj\Debug\readfile.csproj.AssemblyReference.cache
+E:\dotNet\dotNetPractical_5\readfile\obj\Debug\readfile.csproj.CoreCompileInputs.cache
+E:\dotNet\dotNetPractical_5\readfile\obj\Debug\readfile.exe
+E:\dotNet\dotNetPractical_5\readfile\obj\Debug\readfile.pdb

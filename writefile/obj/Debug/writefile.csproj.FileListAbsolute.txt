@@ -1,0 +1,7 @@
+E:\dotNet\dotNetPractical_5\writefile\bin\Debug\writefile.exe.config
+E:\dotNet\dotNetPractical_5\writefile\bin\Debug\writefile.exe
+E:\dotNet\dotNetPractical_5\writefile\bin\Debug\writefile.pdb
+E:\dotNet\dotNetPractical_5\writefile\obj\Debug\writefile.csproj.AssemblyReference.cache
+E:\dotNet\dotNetPractical_5\writefile\obj\Debug\writefile.csproj.CoreCompileInputs.cache
+E:\dotNet\dotNetPractical_5\writefile\obj\Debug\writefile.exe
+E:\dotNet\dotNetPractical_5\writefile\obj\Debug\writefile.pdb
